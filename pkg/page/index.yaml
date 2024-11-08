@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  vnginx:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-11-08T16:26:04.970456889+09:00"
+    description: A Helm chart for Kubernetes
+    digest: 1d1138ec3eb89d2205a789810bf991a400ebd96b384de5b1da696ab3e5885886
+    name: vnginx
+    type: application
+    urls:
+    - vnginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-11-08T16:26:04.968744704+09:00"
